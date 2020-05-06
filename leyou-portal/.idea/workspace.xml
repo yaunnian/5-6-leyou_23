@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="21f66836-ad4f-4753-aa76-3425c0b1ee1b" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="testRunner" value="GRADLE" />
+    <option name="delegatedBuild" value="true" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1PqfeYweDsHkveIt6TfdNx4NrmN" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1561387559685" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\workspace3_2\leyou-portal\img" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="21f66836-ad4f-4753-aa76-3425c0b1ee1b" name="Default Changelist" comment="" />
+      <created>1559442752981</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1559442752981</updated>
+      <workItem from="1559442754337" duration="4781000" />
+      <workItem from="1559451179473" duration="536000" />
+      <workItem from="1559477125724" duration="649000" />
+      <workItem from="1559742646294" duration="1335000" />
+      <workItem from="1559917372250" duration="941000" />
+      <workItem from="1559954550304" duration="619000" />
+      <workItem from="1560342309128" duration="586000" />
+      <workItem from="1560342926970" duration="51000" />
+      <workItem from="1560343107132" duration="1345000" />
+      <workItem from="1560423876414" duration="3855000" />
+      <workItem from="1560499957564" duration="1198000" />
+      <workItem from="1560561253534" duration="2259000" />
+      <workItem from="1560603885956" duration="1446000" />
+      <workItem from="1561036518777" duration="464000" />
+      <workItem from="1561255886426" duration="815000" />
+      <workItem from="1561386671027" duration="1375000" />
+      <workItem from="1566606645147" duration="861000" />
+      <workItem from="1567070331918" duration="1359000" />
+      <workItem from="1567323325075" duration="1765000" />
+      <workItem from="1570433925220" duration="1299000" />
+      <workItem from="1570837585384" duration="640000" />
+      <workItem from="1570884257469" duration="2119000" />
+      <workItem from="1570937381623" duration="1857000" />
+      <workItem from="1571138362446" duration="1329000" />
+      <workItem from="1571215199940" duration="1635000" />
+      <workItem from="1571281363480" duration="1702000" />
+      <workItem from="1576628927121" duration="1666000" />
+      <workItem from="1576794497746" duration="3869000" />
+      <workItem from="1578447763784" duration="1984000" />
+      <workItem from="1588739865465" duration="929000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
